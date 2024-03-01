@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "age": 25,
+    "active": true,
+    "dateOfBirth": "1999-01-15",
+    "profilePhotoUrl": "https://example.com/profiles/johndoe.jpg",
+    "status": "active",
+    "hobbies": ["reading", "gardening"],
+    "address": {
+      "id": 1,
+      "street": "123 Main St",
+      "city": "New York",
+      "country": "USA"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "age": 30,
+    "active": false,
+    "dateOfBirth": "1994-05-20",
+    "profilePhotoUrl": "https://example.com/profiles/janesmith.jpg",
+    "status": "inactive",
+    "hobbies": ["painting", "traveling"],
+    "address": {
+      "id": 2,
+      "street": "456 Elm St",
+      "city": "Los Angeles",
+      "country": "USA"
+    }
+  }
+]
