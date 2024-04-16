@@ -2,8 +2,8 @@ import readline from 'readline-sync';
 
 import { Person, CoordinatesMap } from './interfaces';
 
-const information = "https://github.com/rustwriter/milestone-1/raw/main/information.json";
-const cords = "https://github.com/rustwriter/milestone-1/raw/main/cords.json"; // 2de json wordt nooit gebruikt?
+const information = "https://github.com/vstudiocode/milestone-1/raw/main/information.json";
+const cords = "https://github.com/vstudiocode/milestone-1/raw/main/cords.json"; // 2de json wordt nooit gebruikt?
 
 console.log("Welcome to the JSON data viewer!\n\n1. View all data\n2. Filter by ID\n3. Exit\n"); // Extra \n zodat die nog een lijn tussen laat
 
